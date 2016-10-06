@@ -1,0 +1,60 @@
+body {
+  font-family: courier;
+  <!-- Add more second option fonts -->
+}
+p {
+  font-family: Verdana; font-size: 100%;
+  color: white; text-shadow: 2px 2px #000000;
+}
+h1 {
+  color: white; text-shadow:2px 2px #000000;
+}
+.backgroundpage1 {
+  background-image: url("http://wallpoper.com/images/00/43/76/22/abandoned-building-interior_00437622.jpg");
+}
+.backgroundpage2 {
+  background-image: url("https://image.shutterstock.com/z/avopix-354246659.jpg");
+}
+.backgroundpageforinv {
+  background-image: url("https://thumbs.dreamstime.com/z/hoher-schwarzer-eisenzaun-5886375.jpg");
+}
+.backgroundforbonding {
+  background-image: url("http://72ppi.us/photoblog/cache/ba/13/ba13e5b4d0dc8a80ebf0e0caf107c256.jpg");
+}
+.backgroundforchance {
+  background-image: url("https://aos.iacpublishinglabs.com/question/aq/1400px-788px/feedback-mechanism_29d813cb24ba73d9.jpg?domain=cx.aos.ask.com");
+}
+.backgroundsmoke {
+  background-image: url("http://previews.123rf.com/images/karelinat/karelinat1212/karelinat121200021/17033437-Branches-of-the-tree-and-a-smoke-line-in-the-night-sky-Stock-Photo.jpg");
+}
+.backgroundthrone {
+  background-image: url("http://s01.riotpixels.net/data/48/47/4847439b-cb85-4443-af78-ba592d140ceb.jpg/screenshot.ministry-of-war.1280x756.2010-07-16.2.jpg");
+}
+.backgroundinsidefence {
+  background-image: url("http://i.imgur.com/bjsUVym.jpg");
+}
+.backgrounddecision {
+  background-image: url("http://2.bp.blogspot.com/-GueyscOFraA/T1h2cbzUblI/AAAAAAAAB1Y/IEJXeKOMwdo/s1600/Choices-pic.jpg");
+}
+.links {
+  font-family: sans-serif; color: white; font-weight: bold;
+}
+@keyframes blink {
+  50% {
+    opacity: 0.0;
+  }
+}
+@-webkit-keyframes blink {
+  50% {
+    opacity: 0.0;
+  }
+}
+.blink {
+  animation: blink 1s step-start 0s infinite;
+  -webkit-animation: blink 1s step-start 0s infinite;
+}
+a {
+  font-family: Verdana; font-size: 100%;
+  color: white; text-shadow: 2px 2px #000000;
+}
+/* Cesar Ramos */
